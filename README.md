@@ -170,7 +170,7 @@ The exact processing steps and outputs depend on the implementation in `app.py` 
 ## 12. Future Enhancements
 
 - Improve detection accuracy across different accents, languages, and recording conditions.
-- Expand testing with additional genuine and AI-generated speech datasets.
+- Expand the testing with additional genuine and AI-generated speech datasets.
 - Improve real-time audio analysis.
 - Add more detailed explanations for risk scores.
 - Improve the web interface and reporting features.
